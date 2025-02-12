@@ -28,4 +28,4 @@ Designed line charts, bar graphs, and heatmaps to represent sales trends effecti
 
 Discovered key insights, such as the best-selling coffee type, peak sales periods, and regional preferences.
 
-This project provides a comprehensive overview of coffee sales trends, helping businesses optimize product offerings and marketing strategies.
+**This project provides a comprehensive overview of coffee sales trends, helping businesses optimize product offerings and marketing strategies.**
