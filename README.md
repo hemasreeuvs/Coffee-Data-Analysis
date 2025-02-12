@@ -4,7 +4,7 @@
 
 This project focused on analyzing coffee sales data using Advanced Excel for visualization and Power Query for data cleaning. The goal was to track sales trends, identify key performance metrics, and provide actionable insights.
 
-#Key Aspects of the Analysis:
+# Key Aspects of the Analysis:
 
 1. **Data Cleaning & Preparation:**
 
